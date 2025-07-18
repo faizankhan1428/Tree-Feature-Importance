@@ -1,4 +1,4 @@
-# ML Exercise 3 – Tree Feature Importance
+# ML Exercise 8 – Tree Feature Importance
 This notebook demonstrates how Decision Trees and Random Forests identify which features are most important for predicting California housing prices.
 
 ### 🔍 What’s Inside:
